@@ -52,7 +52,7 @@ Automatically manages memory allocation and deallocation through garbage collect
 ### Memory Management — 3 Ways
 
 - **Garbage collector**
-  - [unclear] maintains a master list of [unclear] using your program is correctly interacting with at any given second.
+  - Computer maintains a master list of using things your program is currently interacting with at any given second.
 - **Manual management**
   - We allocate and deallocate memory ourselves.
 - **Normal management**
